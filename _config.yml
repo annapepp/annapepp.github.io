@@ -1,24 +1,78 @@
 # Site settings
-title: Your Title Here
-description: > # this means to ignore newlines until "baseurl:"
-repository: vvalchev/creative-theme-jekyll-new
-baseurl: "/creative-theme-jekyll-new/" # the subpath of your site, e.g. /blog/
-url: "" # the base hostname & protocol for your site
-author: Copyright &copy; 2019 - Start Bootstrap
-lang: en_US
+title: Anna Pepperdine
+description: Offering sensible nutritional counciling 
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://lokmont-jekyll.netlify.com/" # the base hostname & protocol for your site, e.g. http://example.com
+
+# Banner Section
+hero: 112.jpg
+hero-title: Nutrition Consulting
+hero-description: Sensible and sustainable nutritional choices designed with you for you
+
+# Author - Creator
+author-name: Anna Pepperdine
+author-image: 10.jpg
+about-author: My name is Anna Pepperdine. I graduated from King College, London UK, with a degree in Nutrition. My goal is to offer you nutritional consuling designed to help you maximize your performance.
+author-email: anna@annapepperdine.com
+#author-twitter: https://twitter.com/
+#author-facebook: https://twitter.com/
+#author-instagram: https://www.instagram.com/
+#author-pinterest: https://pinterest.com/
+
+# Other Authors - here you can add Other authors. For example Natali_Braxton
+#authors:
+#  Natali_Braxton:
+#    author-name: Natali Braxton
+#    author-image: 111.jpg
+#    about-author: My name is Natali Braxton. I love walking, I play the guitar in my spare time. And also write articles about different technologies.
+#    author-email: natali.example@gmail.com
+#    author-twitter: https://twitter.com/
+#    author-facebook: https://twitter.com/
+#    author-instagram: https://www.instagram.com/
+#    author-pinterest: https://pinterest.com/
+
+# Social Media Links (Links are located in hero and footer)
+# twitter: https://twitter.com/
+# facebook: https://facebook.com/
+# google-plus: https://plus.google.com/
+# instagram: https://www.instagram.com/
+# pinterest: https://pinterest.com/
+# youtube: https://www.youtube.com/
+
+# Contact Form Settings
+contact-subtitle: Contact me to setup an appointment or for any questions you may have.# Title for the subscription form.
+
+# Google Analytics
+# google-analytics: # Add your identifier. For example UA-99631805-1.
+
+# Newsletter
+# `mailchimp: # Add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
+
+# Comment Section (Disqus)
+#disqus-identifier: anna-pepperdine # Add your shortname for Disqus Comment. 
 
 # Build settings
-safe: true # always trues on github-pages, disables _plugins/
 markdown: kramdown
-sass:
-  indentWidth: 4
-  style: compressed
-  precision: 10
+permalink: pretty
+paginate: 9
+paginate_path: "/page/:num"
+
+# Pages path
+defaults:
+  - scope:
+      path: '_pages'
+    values:
+      permalink: /:basename:output_ext
+
 plugins:
-  - jekyll-sitemap
-  - jekyll-seo-tag
+  - jekyll-paginate
+  - jekyll-feed
+
+include:
+  - _pages
+
+# Exclude from processing.
 exclude:
-  - Gemfile
-  - Gemfile.lock
-  - build-in-docker.sh
-  - README.md
+ - Gemfile
+ - Gemfile.lock
+ - vendor

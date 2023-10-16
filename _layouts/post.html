@@ -1,0 +1,47 @@
+---
+layout: default
+---
+
+<div class="post-header" style="background: url({{"/images/pages/" | prepend: site.baseurl | append : page.img}})">
+  <div class="post-header-info">
+    <h1 class="post-title">{{ page.title | escape }}</h1>
+    <div class="post-meta">
+      <time datetime="{{ page.date | date_to_xmlschema }}">
+        {% assign date_format = site.minima.date_format | default: "%B %-d, %Y" %} {{ page.date | date: date_format }}
+      </time>
+    </div>
+  </div>
+</div>
+
+<div class="content-box">
+  <article class="post">
+
+    <div class="post-content">
+      {{ content }}
+    </div>
+      {% if page.tags.size >= 1 %}
+      <div class="post-tag">
+        <span>Tags:</span>
+        {% for tag in page.tags %}
+        <a href="{{ site.baseurl }}/tags#{{tag}}" class="tag">{{ tag }}</a>
+        {% endfor %}
+      </div>
+      {% else %}
+      {% endif %}
+    </footer>
+    <br><br>
+    <div class="page-navigation clearfix">
+      {% if page.previous.url %}
+      <a class="prev-page" href="{{page.previous.url}}"><i class="fa fa-angle-left" aria-hidden="true"></i><span>{{page.previous.title}}</span></a>
+      {% endif %}
+      {% if page.next.url %}
+      <a class="next-page" href="{{page.next.url}}"><span>{{page.next.title}}</span><i class="fa fa-angle-right" aria-hidden="true"></i></a>
+      {% endif %}
+    </div>
+
+    {% if site.disqus-identifier %}
+      {% include disqus-comments.html %}
+    {% endif %}
+  </article> <!-- /.post -->
+
+</div> <!-- /.content-box -->
