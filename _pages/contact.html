@@ -1,14 +1,14 @@
 ---
 layout: page
 title: Contact
-image: 13.jpg
+image: contact.png
 ---
 {% if site.contact-subtitle %}
 <h5 class="contact-subtitle">{{ site.contact-subtitle }}</h5>
 <hr>
 {% else %}
 {% endif %}
-<form action="https://formspree.io/{{ site.author-email }}" method="POST" class="form">
+<form action="https://formspree.io/f/{{ site.form-id }}" method="POST" class="form">
   <div class="form-group">
     <label for="form-name">Your Name (Required)</label>
     <input class="form-input" type="text" name="name" id="form-name" required>
