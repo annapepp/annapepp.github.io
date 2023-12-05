@@ -4,7 +4,14 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: default
 ---
+<div class="row">
+  <div class="gutter">
+    <img src="{{ '/images/112.jpg' | relative_url }}" />
+  </div>
+  <div class="container">
 {% include hero.html %}
+  </div>
+</div>
 {% comment %}
 {% include info-box.html %}
 {% endcomment %}

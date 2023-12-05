@@ -26,4 +26,30 @@
   <meta name="msapplication-navbutton-color" content="#faf5ee">
   <!-- iOS Safari -->
   <meta name="apple-mobile-web-app-status-bar-style" content="#faf5ee">
+  <style>
+    .row {
+      display: flex;
+    }
+
+   .row:after {
+        content: "";
+        display: table;
+        clear: both;
+      }
+
+   .gutter {
+      display: grid;
+      align-items: center;
+      flex: 20%;
+   }
+
+    .container {
+      flex: 80%;
+    }
+
+    .logo {
+      width: 100%;
+    }
+  }
+  </style>
 </head>

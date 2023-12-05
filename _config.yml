@@ -5,7 +5,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://lokmont-jekyll.netlify.com/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Banner Section
-hero: 112.jpg
+#hero: 112.jpg
 hero-title: Nutrition Consulting
 hero-description: Sensible and sustainable nutritional choices designed with you for you
 
@@ -40,7 +40,9 @@ author-email: anna@annapepperdine.com
 # youtube: https://www.youtube.com/
 
 # Contact Form Settings
-contact-subtitle: Contact me to setup an appointment or for any questions you may have.# Title for the subscription form.
+contact-subtitle: Contact me to setup an appointment or for any questions you may have.
+author-email: anna@annapepperdine.com
+form-id: xqkvvwjy
 
 # Google Analytics
 # google-analytics: # Add your identifier. For example UA-99631805-1.
