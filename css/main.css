@@ -347,7 +347,7 @@ html {
 
 body {
   font-family: 'Roboto', Arial, Helvetica, sans-serif;
-  font-size: 18px;
+  font-size: 24px;
   background-color: #5f5f5f;
   margin: 0;
   -webkit-font-smoothing: antialiased;
@@ -1934,22 +1934,29 @@ table tr:hover {
   transition: all .25s ease;
 }
 
+/*
+commented out as it changes the borders in the contact form.
 .form .form-group .form-input:focus,
 .form .form-group .form-textarea:focus {
   border: 2px solid rgba(0, 120, 217, 0.3);
 }
+*/
+.form .form-group .form-input:focus,
 
 .form .form-group .form-btn {
   font-weight: 700;
-  background-color: #0078d9;
+  background-color: #5f5f5f;
   color: #ffffff;
   -webkit-border-radius: 3px;
           border-radius: 3px;
+  border-color: #000000;
 }
 
 .form .form-group .form-btn:hover {
-  background-color: #004e8d;
+  background-color: #676050;
+  color: #000000
 }
+
 
 @media screen and (max-width: 1100px) {
   .page-navigation .prev-page,

@@ -1,106 +1,101 @@
 ---
 layout: page
 title: Services
-image: 14.jpg
 ---
-A paragraph looks like this — dolor amet cray stumptown fingerstache neutra food truck seitan poke cardigan waistcoat VHS snackwave celiac hella. Godard seitan shoreditch flexitarian next level trust fund man braid vegan listicle keytar bitters. Disrupt cray fashion axe unicorn lomo shaman poke glossier keffiyeh snackwave austin tattooed seitan hexagon lo-fi. Lumbersexual irony vaporware, butcher shaman church-key iceland.
 
-***
+<style>
+button.service {
+    border-radius: 4px;
+    color: #676050;
+    font-weight: bold;
+}
 
-### Headings by default:
+button.service:hover {
+    background-color: #5f5f5f;
+    color: #ffffff;
+}
+</style>
 
-# H1 For example
-## H2 For example
-### H3 For example
-#### H4 For example
-##### H5 For example
-###### H6 For example
+Struggling with weight management or gastrointestinal issues? Need help navigating dietary restrictions? Or, are yo looking for a more optimal diet for sport. If so, I’m here to provide you with evidence based nutritional information individualized to meet your specific needs.
 
-{% highlight markdown %}
-## Heading first level
-### Heading second level
-#### Heading third level
-{% endhighlight %}
+### Initial Consultation: 75 minutes $80
 
-***
+The initial consultation focuses on gathering information about your medical history, activity level, food preferences, allergies, lifestyle as well as a nutritional assessment based on your current diet. This information will be used to tailor a plan to help achieve your nutritional goals.
+<div style="text-align:center">
+<button class="service" onclick = "window.location.href='/contact.html?subject=Initial%20Consultation'">Book Here</button>
+</div>
+<br/>
+<div style="display: block; margin-top: 0.5em; margin-bottom: 0.5em; margin-left: auto; margin-right: auto; border-style: inset; border-width: 1px;"></div><br/>
 
-### Lists
+### Follow-up Consultation: 30 minutes $40
+A 30 minutes follow up session provides you with a progress check as well as a chance to ask questions about previously provided advice. Additional recommendations will be provided as needed. Regular follow-up sessions can help keep you on track to reaching your nutrition goals.
+<div style="text-align:center">
+<button class="service" onclick = "window.location.href='/contact.html?subject=Follow-up'">Book Here</button>
+</div>
+<br/>
+<div style="display: block; margin-top: 0.5em; margin-bottom: 0.5em; margin-left: auto; margin-right: auto; border-style: inset; border-width: 1px;"></div><br/>
 
-#### Ordered list example:
+### Basic Nutrition package: $200
+This package provides you with;
+<ul>
+<li> an initial consultation</li>
+<li>2x30 minute follow-up sessions</li>
+<li>3 months of email support</li>
+<li>Access to physical or digital resources to help you reach your goals and maintain your diet</li>
+</ul>
+I recommend this package if you looking for a good base level of care. 
+<div style="text-align:center">
+<button class="service" onclick = "window.location.href='/contact.html?subject=Basic%20Nutrition%20Package'">Book Here</button>
+</div>
+<br/>
+<div style="display: block; margin-top: 0.5em; margin-bottom: 0.5em; margin-left: auto; margin-right: auto; border-style: inset; border-width: 1px;"></div><br/>
 
-1. Poutine drinking vinegar bitters.
-2. Coloring book distillery fanny pack.
-3. Venmo biodiesel gentrify enamel pin meditation.
-4. Jean shorts shaman listicle pickled portland.
-5. Salvia mumblecore brunch iPhone migas.
+### Advanced Nutrition package: $240
+The Advanced package extends the Basic by adding a deeper analysis of your diet and an additional follow up session. The package includes;
+<ul>
+<li>An initial consultation</li>
+<li>3x30 minute follow-up sessions</li>
+<li>3 months of email support</li>
+<li>Access to physical or digital resources to help you reach and maintain your goals</li>
+</ul>
+<div style="text-align:center">
+<button class="service" onclick = "window.location.href='/contact.html?subject=Advanced%20Nutrition%20Package'">Book Here</button>
+</div>
+<br/>
+<div style="display: block; margin-top: 0.5em; margin-bottom: 0.5em; margin-left: auto; margin-right: auto; border-style: inset; border-width: 1px;"></div><br/>
 
-#### Unordered list example:
+### FODMAP diet package: $240
+If you’ve been diagnosed with IBS and need help with understanding and following the FODMAP diet, then this package is for you! The package includes;
+<ul>
+<li>An initial consultation</li>
+<li>Review and guidance for the FODMAP diet</li>
+<li>3x45 minute follow-up sessions</li>
+<li>3 months of email support</li>
+<li>Access to physical or digital resources</li>
+</ul>
+Let me help you make sense of this complex diet. 
+<div style="text-align:center">
+<button class="service" onclick = "window.location.href='/contact.html?subject=FODMAP%20Diet'">Book Here</button>
+</div>
+<br/>
+<div style="display: block; margin-top: 0.5em; margin-bottom: 0.5em; margin-left: auto; margin-right: auto; border-style: inset; border-width: 1px;"></div><br/>
 
-* Bitters semiotics vice thundercats synth.
-* Literally cred narwhal bitters wayfarers.
-* Kale chips chartreuse paleo tbh street art marfa.
-* Mlkshk polaroid sriracha brooklyn.
-* Pug you probably haven't heard of them air plant man bun.
+### Sport Nutrition package:  $240
+This package is for the athlete in you who wants to improve performance through diet. The package includes;
+<ul>
+<li>An initial consultation focusing on sport and exercise</li>
+<li>Use of nutrition software to assist in an in-depth analysis of your diet</li>
+<li>Review and guidance for the FODMAP diet</li>
+<li>3x30 minute follow-up sessions</li>
+<li>3 months of email support</li>
+<li>Access to physical or digital resources</li>
+</ul>
+<div style="text-align:center">
+<button class="service" onclick = "window.location.href='/contact.html?subject=Sport%20Nutrition%20Package'">Book Here</button>
+</div>
+<br/>
+<div style="display: block; margin-top: 0.5em; margin-bottom: 0.5em; margin-left: auto; margin-right: auto; border-style: inset; border-width: 1px;"></div><br/>
 
-{% highlight markdown %}
-1. Order list item 1
-2. Order list item 1
-
-* Unordered list item 1
-* Unordered list item 2
-{% endhighlight %}
-
-***
-
-### Table
-
-<table>
-  <tr><th>Header 1</th><th>Header 2</th><th>Header 3</th><th>Header 4</th><th>Header 5</th></tr>
-  <tr><td>Row:1 Cell:1</td><td>Row:1 Cell:2</td><td>Row:1 Cell:3</td><td>Row:1 Cell:4</td><td>Row:1 Cell:5</td></tr>
-  <tr><td>Row:2 Cell:1</td><td>Row:2 Cell:2</td><td>Row:2 Cell:3</td><td>Row:2 Cell:4</td><td>Row:2 Cell:5</td></tr>
-  <tr><td>Row:3 Cell:1</td><td>Row:3 Cell:2</td><td>Row:3 Cell:3</td><td>Row:3 Cell:4</td><td>Row:3 Cell:5</td></tr>
-  <tr><td>Row:4 Cell:1</td><td>Row:4 Cell:2</td><td>Row:4 Cell:3</td><td>Row:4 Cell:4</td><td>Row:4 Cell:5</td></tr>
-  <tr><td>Row:5 Cell:1</td><td>Row:5 Cell:2</td><td>Row:5 Cell:3</td><td>Row:5 Cell:4</td><td>Row:5 Cell:5</td></tr>
-  <tr><td>Row:6 Cell:1</td><td>Row:6 Cell:2</td><td>Row:6 Cell:3</td><td>Row:6 Cell:4</td><td>Row:6 Cell:5</td></tr>
-</table>
-
-***
-
-### Quotes
-
-#### A quote looks like this:
-
-> Never put off till tomorrow what may be done day after tomorrow just as well. — Mark Twain
-
-***
+Got a question, [ask me](/contact.html)
 
 
-
-### Syntax Highlighter
-
-{% highlight js %}
-  $('.top').click(function () {
-    $('html, body').stop().animate({ scrollTop: 0 }, 'slow', 'swing');
-  });
-  $(window).scroll(function () {
-    if ($(this).scrollTop() > $(window).height()) {
-      $('.top').addClass("top-active");
-    } else {
-      $('.top').removeClass("top-active");
-    };
-  });
-{% endhighlight %}
-
-***
-
-### Images
-
-![]({{site.baseurl}}/images/15.jpg)
-
-***
-
-### Video
-
-#### Youtube
-
-<iframe src="https://www.youtube.com/embed/iWowJBRMtpc" frameborder="0" allowfullscreen></iframe>
