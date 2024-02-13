@@ -365,19 +365,19 @@ h1 {
 }
 
 h2 {
-  font-size: 28px;
+  font-size: 32px;
 }
 
 h3 {
-  font-size: 24px;
+  font-size: 28px;
 }
 
 h4 {
-  font-size: 20px;
+  font-size: 26px;
 }
 
 h5 {
-  font-size: 18px;
+  font-size: 24px;
 }
 
 h6 {
@@ -593,7 +593,7 @@ table tr:hover {
   padding: 20px;
   text-align: center;
   font-family: 'Lato', sans-serif;
-  font-size: 14px;
+  font-size: 18px;
   line-height: 14px;
   display: inline-block;
   text-decoration: none;
@@ -695,7 +695,7 @@ table tr:hover {
 
 .site-nav a {
   position: relative;
-  font-size: 12px;
+  font-size: 18px;
   padding: 22px 30px;
   font-family: 'Lato', sans-serif;
   letter-spacing: 0.8px;
@@ -1214,7 +1214,7 @@ table tr:hover {
 
 .post-body p {
   font-family: 'Roboto', Arial, Helvetica, sans-serif;
-  font-size: 15px;
+  font-size: 18px;
   line-height: 1.6;
   color: #787878;
 }
@@ -1223,7 +1223,7 @@ table tr:hover {
   font-family: 'Roboto', Arial, Helvetica, sans-serif;
   text-decoration: none;
   color: #222;
-  font-size: 14px;
+  font-size: 16px;
   -webkit-transition: all 0.2s ease;
   -o-transition: all 0.2s ease;
   transition: all 0.2s ease;
@@ -1908,7 +1908,7 @@ table tr:hover {
 .form .form-group label {
   display: block;
   margin-bottom: 10px;
-  font-size: 11px;
+  font-size: 14px;
   text-transform: uppercase;
   color: #FFFFFF;
 }
@@ -1954,7 +1954,6 @@ commented out as it changes the borders in the contact form.
 
 .form .form-group .form-btn:hover {
   background-color: #676050;
-  color: #000000
 }
 
 
