@@ -655,7 +655,7 @@ table tr:hover {
 .site-header {
   height: 60px;
   position: relative;
-  background-color: #676050;
+  background-color: #5f5f5f;
   overflow: hidden;
 }
 
@@ -1691,7 +1691,7 @@ table tr:hover {
 
 .site-footer {
   position: relative;
-  background-color: #676050;
+  background-color: #5f5f5f;
 }
 
 .site-footer .footer-wrapper {
