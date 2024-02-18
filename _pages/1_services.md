@@ -2,6 +2,7 @@
 layout: page
 permalink: /services/
 title: Services
+image: background.png
 ---
 
 <style>

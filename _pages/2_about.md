@@ -2,7 +2,7 @@
 layout: page
 title: About
 permalink: /about/
-image: 12.jpg
+image: background.png
 ---
 Hi, my name is Anna and I want to help make nutrition simple for you! Ever since social media gained popularity, nutrition misinformation has been at an all-time high. My goal is to help you navigate this confusing world and create sustainable changes that bring out the best in you. My practice takes a weight neutral and food first approach to provide optimal support and help for all of my clients. 
  

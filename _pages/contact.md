@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contact
-image: contact.png
+image: background.png
 ---
 <script>
 function getParams() {
