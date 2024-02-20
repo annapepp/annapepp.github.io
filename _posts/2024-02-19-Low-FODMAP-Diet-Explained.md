@@ -2,7 +2,7 @@
 layout: post
 title: Low FODMAP Diet Explained
 date: 2024-02-19 11:00:00 +0900
-img: low-fodmap-foods.png
+img: background.png
 tags: FODMAP IBS MONASH GUT DIET
 ---
 
