@@ -35,11 +35,12 @@ The Low FODMAP diet involves restricting or eliminating foods that are high in F
 <li>Polyols: sugar alcohols like xylitol, sorbitol, maltitol, and mannitol. They are also found in some fruits and vegetables and often used as sweeteners.</li>
 </ul>
 
-Our unprocessed foods don't come with a list of all of their components. So how can you be certain which foods you should eat or avoid? 
+Our unprocessed foods don't come with a list of all of their components. So how can you be certain which foods you should eat or avoid?
 
-The table below shows some of the foods that you should enjoy and avoid. If you'd like a personalized list of low and high FODMAP foods please [contact me](contact.html).
+The table below shows some of the foods that you should enjoy and avoid. If you'd like a personalized list of low and high FODMAP foods please [contact me](/contact.html)!
 
 ##### Examples of low and high FODMAP foods
+
 ![table of foods to enjoy and avoid while on a low FODMAP diet]({{site.baseurl}}/images/pages/low-fodmap-foods.png)
 <br/>
 
@@ -71,6 +72,6 @@ It is important to note that the diet is highly complex and will require guidanc
 
 Your best support system for this is a health care professional who has been trained in the Low FODMAP diet. Many nutritionists and dietitians can obtain additional training from Monash University and acquire a certificate in treating IBS with the Low FODMAP diet. This certificate will ensure that you are getting your information from someone who has appropriate knowledge and background with this diet to make the process as easy and stress free for you as possible.
 
-In conclusion, the Low FODMAP diet is a promising dietary approach for managing symptoms of IBS and other gastrointestinal issues. While the diet may not be suitable for everyone, it can be a valuable tool for those seeking relief from digestive discomfort. Thus, it is important for individuals to work with a healthcare professional to determine if the diet is appropriate for their specific needs and to ensure that it is followed correctly. Through my FODMAP diet certification I was able to create a [FODMAP package](1_services.html)  that offers you the support you will need to successfully tackle this diet!
+In conclusion, the Low FODMAP diet is a promising dietary approach for managing symptoms of IBS and other gastrointestinal issues. While the diet may not be suitable for everyone, it can be a valuable tool for those seeking relief from digestive discomfort. Thus, it is important for individuals to work with a healthcare professional to determine if the diet is appropriate for their specific needs and to ensure that it is followed correctly. Through my FODMAP diet certification I was able to create a [FODMAP package](/services/index.html)  that offers you the support you will need to successfully tackle this diet!
 
 

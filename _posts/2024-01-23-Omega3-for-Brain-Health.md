@@ -29,4 +29,4 @@ For people who do not eat fish, there are sadly no plant-based food sources of E
 
 If you feel you are still not getting enough Omega-3s through your diet (you can get this checked through an Omega-3 blood test), supplementing may be appropriate. There are a myriad of different Omega-3 supplements on the store shelfs out there all claiming to be the best. Choose a supplement that aligns with your dietary restrictions and needs. There are both good plant-based and fish-based Omega-3 supplements that could help you meet your requirements. Please speak to a healthcare professional before deciding to take any supplement to make sure it is safe for you. 
 
-If you need further guidance on incorporating Omega-3s into your daily life or have a question about your food habits, please feel free to reach out through my [contact form](contact.html)!
+If you need further guidance on incorporating Omega-3s into your daily life or have a question about your food habits, please feel free to reach out through my [contact form](/contact.html)!
