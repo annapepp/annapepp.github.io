@@ -37,6 +37,6 @@ And let's not forget about the role of the wellness industry in perpetuating the
 
 While leaky gut syndrome may make for a compelling narrative, the reality is that the science just isn't there to support it. That's not to say that gut health isn't important or that gut permeability doesn't play a role in certain diseases. But until we have more solid evidence to back up the leaky gut theory, it's best to take it with a grain of salt.
 
-In the meantime, focus on what we know works for maintaining a healthy gut: eating a balanced diet rich in fruits, vegetables, whole grains, and lean proteins, getting regular exercise, managing stress, and avoiding smoking and excessive alcohol consumption. And if you're experiencing digestive issues or other health concerns, don't hesitate to reach out and set up an appointment with me![Contact me for more information](/contact.html).
+In the meantime, focus on what we know works for maintaining a healthy gut: eating a balanced diet rich in fruits, vegetables, whole grains, and lean proteins, getting regular exercise, managing stress, and avoiding smoking and excessive alcohol consumption. And if you're experiencing digestive issues or other health concerns, don't hesitate to reach out and set up an appointment with me! [Contact me for more information](/contact.html).
 
 
